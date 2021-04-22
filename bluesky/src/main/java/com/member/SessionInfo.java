@@ -1,6 +1,6 @@
 package com.member;
 
-// 예제 1
+// 예제 123
 public class SessionInfo {
 	private String userId, userName;
 	private int userRoll;
