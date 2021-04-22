@@ -4,13 +4,13 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
 
-//
 public class DBConn {
 	private static Connection conn = null;
 
 	private DBConn() {
 	}
 	
+	// 예제
 	public static Connection getConnection() {
 		// String url="jdbc:oracle:thin:@127.0.0.1:1521:XE";
 		// String url="jdbc:oracle:thin:@127.0.0.1:1521:ORCL";  // 11g
