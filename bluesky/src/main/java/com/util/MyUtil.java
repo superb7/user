@@ -2,6 +2,7 @@ package com.util;
 
 import java.util.regex.Pattern;
 
+//
 public class MyUtil {
 	/**
 	 * 전체 페이지 수 구하기
