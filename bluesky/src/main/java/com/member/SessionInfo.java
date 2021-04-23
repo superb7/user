@@ -1,6 +1,6 @@
 package com.member;
 
-// test 브렌치-2
+// test 브렌치-33
 public class SessionInfo {
 	private String userId, userName;
 	private int userRoll;
